@@ -1,0 +1,19 @@
+/* Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0d0e12; 
+    min-height: 100vh;
+    padding: 40px;
+}
+
+
+p {
+    color: #a855f7;                 
+    font-size: 32px;                
+    font-family: 'Syne', sans-serif; /* Applies the Google Font */
+}
